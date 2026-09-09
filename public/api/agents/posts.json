@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-09-09",
+    "description": "Shareable Java configuration providing standardized Checkstyle, SpotBugs, and PMD rules adhering to modern 2026 standards.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "@sebastienrousseau/java-config — Shareable Java configuration standards for Checkstyle, SpotBugs, and PMD.",
+    "url": "https://sebastienrousseau.com/java-config/index.html",
+    "wordCount": 162
+  },
+  {
     "date": "",
     "description": "How to install and set up @sebastienrousseau/java-config.",
     "locale": "en-GB",
