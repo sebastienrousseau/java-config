@@ -1,0 +1,65 @@
+{
+  "feed_url": "https://sebastienrousseau.com/java-config/feed.json",
+  "home_page_url": "https://sebastienrousseau.com/java-config/",
+  "items": [
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "How to install and set up @sebastienrousseau/java-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/java-config/installation/",
+      "tags": [],
+      "title": "Installation — @sebastienrousseau/java-config",
+      "url": "https://sebastienrousseau.com/java-config/installation/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "Model Context Protocol configuration for @sebastienrousseau/java-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/java-config/mcp/",
+      "tags": [],
+      "title": "Model Context Protocol (MCP) — @sebastienrousseau/java-config",
+      "url": "https://sebastienrousseau.com/java-config/mcp/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "Reference specifications and options for @sebastienrousseau/java-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/java-config/reference/",
+      "tags": [],
+      "title": "Reference — @sebastienrousseau/java-config",
+      "url": "https://sebastienrousseau.com/java-config/reference/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "How to use and configure @sebastienrousseau/java-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/java-config/usage/",
+      "tags": [],
+      "title": "Usage — @sebastienrousseau/java-config",
+      "url": "https://sebastienrousseau.com/java-config/usage/"
+    }
+  ],
+  "language": "en-GB",
+  "title": "java-config",
+  "version": "https://jsonfeed.org/version/1.1"
+}

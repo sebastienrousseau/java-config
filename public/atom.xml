@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>java-config</title>
+  <link href="https://sebastienrousseau.com/java-config/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sebastienrousseau.com/java-config"/>
+  <id>https://sebastienrousseau.com/java-config</id>
+  <updated></updated>
+  <entry>
+    <title>Installation — @sebastienrousseau/java-config</title>
+    <link href="https://sebastienrousseau.com/java-config/installation/"/>
+    <id>https://sebastienrousseau.com/java-config/installation/</id>
+    <updated></updated>
+    <published></published>
+    <summary>How to install and set up @sebastienrousseau/java-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+  <entry>
+    <title>Model Context Protocol (MCP) — @sebastienrousseau/java-config</title>
+    <link href="https://sebastienrousseau.com/java-config/mcp/"/>
+    <id>https://sebastienrousseau.com/java-config/mcp/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Model Context Protocol configuration for @sebastienrousseau/java-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+  <entry>
+    <title>Reference — @sebastienrousseau/java-config</title>
+    <link href="https://sebastienrousseau.com/java-config/reference/"/>
+    <id>https://sebastienrousseau.com/java-config/reference/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Reference specifications and options for @sebastienrousseau/java-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+  <entry>
+    <title>Usage — @sebastienrousseau/java-config</title>
+    <link href="https://sebastienrousseau.com/java-config/usage/"/>
+    <id>https://sebastienrousseau.com/java-config/usage/</id>
+    <updated></updated>
+    <published></published>
+    <summary>How to use and configure @sebastienrousseau/java-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+</feed>
