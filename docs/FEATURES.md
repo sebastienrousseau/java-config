@@ -20,10 +20,13 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. checkstyle.xml
+
 Strict Checkstyle ruleset enforcing Java code conventions, naming standards, and documentation. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. spotbugs-exclude.xml
+
 SpotBugs static analysis configuration identifying null pointers, concurrency hazards, and resource leaks. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 3. pmd-ruleset.xml
+
 PMD quality ruleset auditing cyclomatic complexity, best practices, and error-prone constructs. Designed to guarantee deterministic behavior across all development and continuous integration environments.
