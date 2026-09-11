@@ -1,0 +1,10 @@
+index.js usr/share/nodejs/@sebastienrousseau/java-config/
+index.mjs usr/share/nodejs/@sebastienrousseau/java-config/
+index.cjs usr/share/nodejs/@sebastienrousseau/java-config/
+index.d.ts usr/share/nodejs/@sebastienrousseau/java-config/
+checkstyle.xml usr/share/nodejs/@sebastienrousseau/java-config/
+spotbugs-exclude.xml usr/share/nodejs/@sebastienrousseau/java-config/
+pmd-ruleset.xml usr/share/nodejs/@sebastienrousseau/java-config/
+LICENSE usr/share/nodejs/@sebastienrousseau/java-config/
+.editorconfig usr/share/nodejs/@sebastienrousseau/java-config/
+package.json usr/share/nodejs/@sebastienrousseau/java-config/
