@@ -6,7 +6,7 @@
 class JavaConfig < Formula
   desc "Shareable Java configuration providing standardized Checkstyle, SpotBugs, and PMD rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/java-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/java-config/-/java-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/java-config/-/java-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
